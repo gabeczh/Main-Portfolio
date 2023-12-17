@@ -3,13 +3,9 @@
 
 ***Current Projects: JavaScript/TypeScript***
 
---
-
 **File System:**
 
 - **PARA Method by Tiago Forte**
-
---
 
 **Guidelines & Best Practices:**
 
