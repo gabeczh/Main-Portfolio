@@ -14,6 +14,6 @@
  - **Clean Architecture by Robert C. Martin**
  - **Refactoring by Martin Fowler**
  - **The Pragmatic Programmer by David Thomas, Andrew Hunt**
- - **Deep Learning with Python by François Chollet**
+
 
 
