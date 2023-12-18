@@ -17,10 +17,10 @@
 
 # **How to Navigate**
 
-**1-Projects [For Current Projects]**
-**2-Areas [For Post-Projects/Development]**
-**3-Resources [For references]**
-**4-Archives [For Completed Projects]**
+**1-Projects [For Current Projects]** <br>
+**2-Areas [For Post-Projects/Development]** <br>
+**3-Resources [For references]** <br>
+**4-Archives [For Completed Projects]** <br>
 
 
 
