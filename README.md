@@ -15,5 +15,13 @@
  - **Refactoring by Martin Fowler**
  - **The Pragmatic Programmer by David Thomas, Andrew Hunt**
 
+# **How to Navigate**
+
+**1-Projects [For Current Projects]**
+**2-Areas [For Post-Projects/Development]**
+**3-Resources [For references]**
+**4-Archives [For Completed Projects]**
+
+
 
 
