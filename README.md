@@ -1,7 +1,7 @@
 # The Main Portfolio
 **A Showcase of all of my projects**
 
-***CURRENT:***
+***CURRENT:*** <br />
 **JavaScript/TypeScript:**
 
 - **Ono: A language specific chat bot**
