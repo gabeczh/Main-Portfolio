@@ -8,6 +8,6 @@ This is my Programming Portfolio in Python, where my main projects are mostly Ma
 
 ## ML-AI Section
 
-[ML-AI](https://github.com/gluppler/Python-Portfolio/tree/main/ML-AI)
+[ML-AI](https://github.com/gluppler/Main-Portfolio/tree/main/4-Archives/Programming/Python/ML-AI)
 
 
