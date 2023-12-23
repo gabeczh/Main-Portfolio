@@ -24,10 +24,10 @@
 
 # **How to Navigate**
 
-1-Projects(https://github.com/gluppler/Main-Portfolio/tree/main/1-Projects)<br />
-2-Areas(https://github.com/gluppler/Main-Portfolio/tree/main/2-Areas)<br />
-3-Resources(https://github.com/gluppler/Main-Portfolio/tree/main/3-Resources)<br />
-4-Archives(https://github.com/gluppler/Main-Portfolio/tree/main/4-Archives)
+[1-Projects](https://github.com/gluppler/Main-Portfolio/tree/main/1-Projects)<br />
+[2-Areas](https://github.com/gluppler/Main-Portfolio/tree/main/2-Areas)<br />
+[3-Resources](https://github.com/gluppler/Main-Portfolio/tree/main/3-Resources)<br />
+[4-Archives](https://github.com/gluppler/Main-Portfolio/tree/main/4-Archives)
 
 
 
