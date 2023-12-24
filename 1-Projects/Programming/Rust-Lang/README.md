@@ -1,6 +1,6 @@
 # Rust Programming Language
 
-***How-To's*** <br />
+# **How-To's** <br />
 **0. rustup update** <br />
 **1. cargo new <new-project-name>** <br />
 **2. cargo build** <br />
