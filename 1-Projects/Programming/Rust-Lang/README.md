@@ -6,4 +6,5 @@
 **2. cargo build** <br />
 **3. cargo run/rustc <file>** <br />
 **4. cargo check** <br />
+**5. cargo clean** <br />
 
