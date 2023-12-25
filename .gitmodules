@@ -1,0 +1,3 @@
+[submodule "1-Projects/Programming/Rust-Lang/How-To-Rust"]
+	path = 1-Projects/Programming/Rust-Lang/How-To-Rust
+	url = https://github.com/gluppler/How-To-Rust
