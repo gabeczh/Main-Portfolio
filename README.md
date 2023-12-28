@@ -2,9 +2,9 @@
 **A Showcase of all of my projects**
 
 ***CURRENT:*** <br />
-**JavaScript/TypeScript:**
+**Rust-Lang:**
 
-- **Ono: A language specific chat bot**
+- **How-To-Rust**
 
 ---
 
